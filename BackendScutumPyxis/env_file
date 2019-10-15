@@ -1,0 +1,5 @@
+//Renomear pasra .env
+
+module.export = {
+    authSecret: ''
+}
